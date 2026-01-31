@@ -1,4 +1,5 @@
 PySpark-Based Customer Behavior Analysis
+
 This project focuses on building an end-to-end big data analytics pipeline using Hadoop for large-scale data ingestion and PySpark for distributed data processing. Utilizing a dataset of over 110 million user interaction events from a multi-category eCommerce store, the goal is to understand behavioral patterns, predict purchase likelihood, and segment customers for personalized marketing.
 
 Technical Stack
